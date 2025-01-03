@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oh no why are you here 🙁🙁🙁 but check out my discord bot while your at it 🦾
 
 <!--
 **SleepyPandas/SleepyPandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
