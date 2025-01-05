@@ -1,7 +1,14 @@
 ## Oh no why are you here 🙁🙁🙁 but check out my discord bot while your at it 🦾
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight">
+</div>
+
 <!--
 **SleepyPandas/SleepyPandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
