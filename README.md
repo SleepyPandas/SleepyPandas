@@ -1,4 +1,9 @@
-## Oh no why are you here 🙁🙁🙁 but check out my discord bot while your at it 🦾
+## Anthony Hua
+<div align="center">
+  😎😎😎😎
+</div>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight">
