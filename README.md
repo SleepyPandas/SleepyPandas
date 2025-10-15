@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight">
 </div>
 
-[![MY Github Stats](https://github-readme-stats.vercel.app/api?username=SleepyPandas)](https://github.com/SleepyPandas/github-readme-stats)
+
 
 
 <!--
