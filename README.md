@@ -9,6 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight">
+</div>
+
+[![MY Github Stats](https://github-readme-stats.vercel.app/api?username=SleepyPandas)](https://github.com/SleepyPandas/github-readme-stats)
+
+
 <!--
 **SleepyPandas/SleepyPandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
