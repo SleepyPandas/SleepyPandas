@@ -9,9 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight">
 </div>
 
-<div align="center">
-  <img width="22080" height="9288" alt="Class Dependencies" src="https://github.com/user-attachments/assets/86758deb-9906-4444-91f0-90f1fafeea63" />
-</div>
+<!-- <div align="center">
+  <img width="920" height="387" alt="Class Dependencies" src="https://github.com/user-attachments/assets/86758deb-9906-4444-91f0-90f1fafeea63" />
+</div> -->
 
 
 
