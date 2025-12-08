@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML&v">
+  <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&v">
 </div>
 
 
