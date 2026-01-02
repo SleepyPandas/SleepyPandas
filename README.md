@@ -1,7 +1,8 @@
-## Anthony Hua
-<div align="center">
-  😎😎😎😎
-</div>
+## HELLO! I'm Anthony Hua a cool dude. 
+<!-- <div align="center"> -->
+  Welcome to my github page... 
+  I'm a student studying Computational Cognitve Science, Cs and Math! [Check out the discord bot I made to compile LaTeX](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
+<!-- </div> -->
 
 
 <div align="center">
@@ -9,8 +10,9 @@
 </div>
 
 
-
-
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--Anthony_Hua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email--Anthony_Hua-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommyrobotics1@gmail.com)
 <!--
 **SleepyPandas/SleepyPandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
