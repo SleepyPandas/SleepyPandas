@@ -3,12 +3,20 @@
   Welcome to my github page... 
   I'm a student studying Computational Cognitve Science, Cs and Math! [Check out the discord bot I made to compile LaTeX](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
 <!-- </div> -->
+<br>
+<br>
 
 
 <div align="center">
-  <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&v">
+    <tr>
+      <td align="center">
+        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&v" alt="Top Langs" />
+      </td>
+      <td align="center">
+        <img width="190" alt="Discord bot con (1)" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
+      </td>
+    </tr>
 </div>
-
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--Anthony_Hua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hua-5638382ba/)
