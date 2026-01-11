@@ -18,6 +18,8 @@
     </tr>
 </div>
 
+[![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml)
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--Anthony_Hua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hua-5638382ba/)
 [![Email](https://img.shields.io/badge/Email--Anthony_Hua-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommyrobotics1@gmail.com)
