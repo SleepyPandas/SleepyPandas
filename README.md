@@ -69,7 +69,7 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/kittinan/spotify-github-profile">
+      <a href="x">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u559ks56bbgkxkgpkxmttmt9g&cover_image=true&theme=default&show_offline=false&background_color=0e1117&interchange=false&profanity=false&bar_color=00fbff&bar_color_cover=false" alt="Spotify Status" />
       </a>
     </td>
