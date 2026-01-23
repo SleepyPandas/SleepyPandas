@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a student and I like cool things and people. I'm fascinated by how we think and how machines compute. I study these random things!: **Computational Cognitive Science**, **Computer Science**, and **Mathematics**. @UofT 
+I'm a student and I like cool things and people. I'm fascinated by how we think and how machines compute. I study these random things!: **Computational Cognitive Science**, and **Mathematics**. @UofT 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Powered%20by-Matcha-00C942?style=for-the-badge&logo=coffee&logoColor=white" />
@@ -42,6 +42,11 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 </div>
 
 <br>
