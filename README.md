@@ -1,42 +1,88 @@
-## HELLO! I'm Anthony Hua a cool dude. 
-<!-- <div align="center"> -->
-  Welcome to my github page... 
-  I'm a student studying Computational Cognitve Science, Cs and Math! [Check out the discord bot I made to compile LaTeX](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
-<!-- </div> -->
-<br>
-<br>
-
-
 <div align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&v" alt="Top Langs" />
-      </td>
-      <td align="center">
-        <img width="190" alt="Discord bot con (1)" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
-      </td>
-    </tr>
+
+  <h1>Its me, Anthony Hua!</h1>
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
+  <br>
+
+  <a href="https://www.linkedin.com/in/anthony-hua-5638382ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tommyrobotics1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
+<br>
+
+## About Me
+
+I'm a student and I like cool things and people. I'm fascinated by how we think and how machines compute. I study these random things!: **Computational Cognitive Science**, and **Mathematics**. @UofT 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Powered%20by-Matcha-00C942?style=for-the-badge&logo=coffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Works%20on%20my%20machine-approved-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Has%205%20Toes-Yes-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sushi%20Chef-True-red?style=for-the-badge" />
+</div>
+
+<br>
+
+
+
+<br>
+
+## Things I've worked with 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+</div>
+
+<br>
+
+## Featured Projects
+
+### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
+> A helpful Discord bot designed to compile LaTeX snippets on the fly, making math collaboration easier for students and study groups. Works in Discord DMs and Servers!
+
+### [📄 Seamless PDF](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml)
+> A simple tool to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--Anthony_Hua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-hua-5638382ba/)
-[![Email](https://img.shields.io/badge/Email--Anthony_Hua-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tommyrobotics1@gmail.com)
-<!--
-**SleepyPandas/SleepyPandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit-Banging-Driver)
+> A simple Driver for the DHT11 temperature and humidity sensor that uses bit-banging to read the sensor data. On STM32 microcontroller.
+
+<br>
+
+## GitHub Stats
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u559ks56bbgkxkgpkxmttmt9g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Status" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&v" alt="Top Langs" />
+      </a>
+      <br><br>
+      <img width="300" alt="Discord bot contribution" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
+    </td>
+  </tr>
+</table>
 
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
