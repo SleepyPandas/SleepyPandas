@@ -60,7 +60,7 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 [![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml)
 > A simple tool to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
-### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit-Banging-Driver)
+### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
 > A simple Driver for the DHT11 temperature and humidity sensor that uses bit-banging to read the sensor data. On STM32 microcontroller.
 
 <br>
