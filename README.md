@@ -1,6 +1,8 @@
 <div align="center">
 
-  <h1>Hi, I'm Anthony Hua!</h1>
+  <h1>Its me, Anthony Hua!</h1>
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
   <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
   <br>
 
@@ -27,6 +29,10 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 
 <br>
 
+
+
+<br>
+
 ## Things I've worked with 
 
 <div align="center">
@@ -50,19 +56,28 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 > A simple tool to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit-Banging-Driver)
-> A helpful Discord bot designed to compile LaTeX snippets on the fly, making math collaboration easier for students and study groups. Works in Discord DMs and Servers!
+> A simple Driver for the DHT11 temperature and humidity sensor that uses bit-banging to read the sensor data. On STM32 microcontroller.
 
 <br>
 
 ## GitHub Stats
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u559ks56bbgkxkgpkxmttmt9g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Status" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&v" alt="Top Langs" />
+      </a>
+      <br><br>
+      <img width="300" alt="Discord bot contribution" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&v" alt="Top Langs" />
-  </a>
-  <br><br>
-  <img width="300" alt="Discord bot contribution" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
-</div>
 
 
 
