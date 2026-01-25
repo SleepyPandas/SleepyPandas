@@ -56,7 +56,7 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 ### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
 > A concurrent Discord bot designed to compile LaTeX snippets on the fly, making math collaboration easier for students and study groups. Works in Discord DMs and Servers!
 
-### [📄 Seamless PDF](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
+### [📄 Seamless PDF Python Package!](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml)
 > A lightweight utility to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
