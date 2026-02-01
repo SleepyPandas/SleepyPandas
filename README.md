@@ -53,6 +53,9 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 
 ## Featured Projects
 
+### [🐻... MPU6500-Bare-Metal-Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
+> MPU6500 6-Axis Accelerometer / Gyro bare-metal Driver that uses SPI/I2C and UART to display and log data on a Python dashboard using Matplotlib.
+
 ### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
 > A concurrent Discord bot designed to compile LaTeX snippets on the fly, making math collaboration easier for students and study groups. Works in Discord DMs and Servers!
 
@@ -61,7 +64,7 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 > A lightweight utility to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
-> A bare-metal for the DHT11 temperature and humidity sensor that uses bit-banging to read the sensor data. On STM32 microcontroller.
+> A bare-metal driver for the DHT11 temperature and humidity sensor that uses bit-banging to read the sensor data. On STM32 microcontroller.
 
 <br>
 
