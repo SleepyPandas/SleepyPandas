@@ -76,7 +76,7 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
       </a>
     </td>
     <td align="center" width="50%">
-        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&exclude_repo=Finance-Project,Cog260-Project&"v=1" alt="Top Langs" />
+        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&exclude_repo=Finance-Project,Cog260-Labs&"v=1" alt="Top Langs" />
       </a>
       <br><br>
       <img width="300" alt="Discord bot contribution" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
