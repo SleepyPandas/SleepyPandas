@@ -57,7 +57,7 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 > A concurrent Discord bot designed to compile LaTeX snippets on the fly, making math collaboration easier for students and study groups. Works in Discord DMs and Servers!
 
 ### [📄 Seamless PDF Python Package!](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
-[![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml)
+[![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml) [![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=blue)](https://pypi.org/project/seamless-pdf/)
 > A lightweight utility to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
