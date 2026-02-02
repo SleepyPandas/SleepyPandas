@@ -65,6 +65,12 @@ tooling to debug and visualize hardware data.
 
 > **A bare-metal driver** for the MPU6500 6-Axis Accelerometer / Gyro that uses **SPI/I2C** and **UART** to display and log data on a Python dashboard using **Matplotlib**.
 
+<details>
+  <summary><b>🎥 Watch Demo: Live Dashboard & Hardware</b></summary>
+  <br>
+  <video src="https://github.com/user-attachments/assets/35c72ef3-7cd2-4b26-8794-a8332a81c6cc" controls width="100%"></video>
+</details>
+
 ### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 
