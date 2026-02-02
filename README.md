@@ -63,7 +63,7 @@ tooling to debug and visualize hardware data.
 ### [🐻 MPU6500 Bare Metal Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> **A bare-metal driver** for the MPU6500 6-Axis Accelerometer / Gyro that uses **SPI/I2C** and **UART** to display and log data on a Python dashboard using **Matplotlib**.
+> **A bare-metal driver** for the MPU6500 6-Axis Accelerometer / Gyro that uses **SPI/I2C** and **UART** to display and log data on a Python dashboard using **Matplotlib**. Includes register-level configuration for sleep / wake and sensitivity configs. 
 
 <details>
   <summary><b>🎥 Watch Demo: Live Dashboard & Hardware</b></summary>
