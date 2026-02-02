@@ -17,7 +17,7 @@
 <br>
 
 ## About Me
-### Embedded & Firmware Focused | C, Python | Bare-Metal
+### Embedded & Firmware | C, Python | Bare-Metal
 I’m a student at the University of Toronto studying Computational Cognitive Science
 and Mathematics, with a strong interest in embedded systems and firmware development.
 
