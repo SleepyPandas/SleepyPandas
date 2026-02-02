@@ -17,8 +17,13 @@
 <br>
 
 ## About Me
+### Embedded & Firmware Focused | C, Python | Bare-Metal
+I’m a student at the University of Toronto studying Computational Cognitive Science
+and Mathematics, with a strong interest in embedded systems and firmware development.
 
-I'm a student and I like cool things and people. I'm fascinated by how we think and how machines compute. I study these random things!: **Computational Cognitive Science**, and **Mathematics**. @UofT 
+I’m currently building projects in **bare-metal C and Python** to better understand
+microcontrollers, hardware interfaces, and low-level system behavior. My focus is on writing drivers from scratch, working with SPI/I²C/UART/Timers + more, and building
+tooling to debug and visualize hardware data.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Powered%20by-Matcha-00C942?style=for-the-badge&logo=coffee&logoColor=white" />
