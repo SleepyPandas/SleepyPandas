@@ -53,18 +53,26 @@ I'm a student and I like cool things and people. I'm fascinated by how we think 
 
 ## Featured Projects
 
-### [🐻... MPU6500-Bare-Metal-Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
-> MPU6500 6-Axis Accelerometer / Gyro bare-metal Driver that uses SPI/I2C and UART to display and log data on a Python dashboard using Matplotlib.
+### [🐻 MPU6500 Bare Metal Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+> **A bare-metal driver** for the MPU6500 6-Axis Accelerometer / Gyro that uses **SPI/I2C** and **UART** to display and log data on a Python dashboard using **Matplotlib**.
 
 ### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+
 > A concurrent Discord bot designed to compile LaTeX snippets on the fly, making math collaboration easier for students and study groups. Works in Discord DMs and Servers!
 
-### [📄 Seamless PDF Python Package!](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
-[![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml) [![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=blue)](https://pypi.org/project/seamless-pdf/)
+### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
+[![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml) [![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=blue&style=flat-square)](https://pypi.org/project/seamless-pdf/) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 > A lightweight utility to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
-> A bare-metal driver for the DHT11 temperature and humidity sensor that uses bit-banging to read the sensor data. On STM32 microcontroller.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+
+> A **bare-metal driver** for the DHT11 temperature and humidity sensor that uses bit-banging to read sensor data on an **STM32 microcontroller**.
+
+<br>
 
 <br>
 
