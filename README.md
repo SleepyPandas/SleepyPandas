@@ -68,7 +68,7 @@ tooling to debug and visualize hardware data.
 <details>
   <summary><b>🎥 Watch Demo: Live Dashboard & Hardware</b></summary>
   <br>
-  <video src="https://github.com/user-attachments/assets/35c72ef3-7cd2-4b26-8794-a8332a81c6cc" controls width="100%"></video>
+  <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
 </details>
 
 ### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
