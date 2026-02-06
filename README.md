@@ -78,12 +78,18 @@ tooling to debug and visualize hardware data.
 
 ### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml) [![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=blue&style=flat-square)](https://pypi.org/project/seamless-pdf/) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
 > A lightweight utility to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
 > A **bare-metal driver** for the DHT11 temperature and humidity sensor that uses bit-banging to read sensor data on an **STM32 microcontroller**.
+
+### [♿ Moral Machine Dataset Analysis](https://github.com/SleepyPandas/COG260-Project-Moral-Machine-Analysis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square&logo=matplotlib&logoColor=white)
+
+> A modular data pipeline investigating how cultural values (Rule of Law, Individualism) shape ethical decisions in autonomous vehicle dilemmas. Features statistical hypothesis testing and regression analysis of millions of Moral Machine responses.
 
 <br>
 
