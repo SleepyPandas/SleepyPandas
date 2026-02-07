@@ -67,7 +67,7 @@ tooling to debug and visualize hardware data.
 > Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
 
 <details>
-  <summary><b>🎥 Watch Demo: Live Dashboard & Hardware</b></summary>
+  <summary><b> Watch Demo:: Live Dashboard & Hardware</b></summary>
   <br>
   <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
 </details>
