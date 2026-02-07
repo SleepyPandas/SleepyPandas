@@ -63,7 +63,8 @@ tooling to debug and visualize hardware data.
 ### [🐻 MPU6500 Bare Metal Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> **A bare-metal driver** for the MPU6500 6-Axis Accelerometer / Gyro that uses **SPI/I2C** and **UART** to display and log data on a Python dashboard using **Matplotlib**. Includes register-level configuration for sleep / wake and sensitivity configs. 
+> A **platform-agnostic, register-level driver** for the MPU6500 IMU on **STM32H5 (Cortex-M33)**. 
+> Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
 
 <details>
   <summary><b>🎥 Watch Demo: Live Dashboard & Hardware</b></summary>
@@ -72,24 +73,30 @@ tooling to debug and visualize hardware data.
 </details>
 
 ### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-EF3340?style=flat-square&logo=files&logoColor=white) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=googlegemini&logoColor=fff)](#)
 
-> A concurrent Discord bot designed to compile LaTeX snippets on the fly, making math collaboration easier for students and study groups. Works in Discord DMs and Servers!
+
+> A discord bot that renders LaTeX/TikZ diagrams into images in real-time.
+> built with **asyncio** and **ThreadPoolExecutor** to offload CPU-intensive compilation tasks, ensuring the main event loop remains non-blocking. Features **Dockerized deployment** and integrates **Google's Gemma API** for natural language Q&A.
+
 
 ### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml) [![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=blue&style=flat-square)](https://pypi.org/project/seamless-pdf/) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-> A lightweight utility to convert HTML documents into continuous PDFs without page breaks, streamlining the reading experience.
+> A Python utility and CLI for converting HTML/Markdown into continuous, scrollable PDFs without page breaks. 
+> Uses **headless Chromium instance via Playwright** to render DOM elements extracting dimensions. Designed with a modular architecture separating CLI argument parsing from the core conversion logic for easy library integration.
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat-square&logo=chip&logoColor=white)
 
-> A **bare-metal driver** for the DHT11 temperature and humidity sensor that uses bit-banging to read sensor data on an **STM32 microcontroller**.
+> A **bare-metal C driver** implementing the custom DHT11 single-wire protocol from scratch on **STM32H5**.
+> Manually controls GPIO timing with **microsecond precision** (using hardware TIM1) to handle the sensor's strict handshaking and data transmission states. Includes native **checksum verification** to reject corrupted data frames.
 
 ### [♿ Moral Machine Dataset Analysis](https://github.com/SleepyPandas/COG260-Project-Moral-Machine-Analysis)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square&logo=matplotlib&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
-> A modular data pipeline investigating how cultural values (Rule of Law, Individualism) shape ethical decisions in autonomous vehicle dilemmas. Features statistical hypothesis testing and regression analysis of millions of Moral Machine responses.
+> A reproducible data pipeline analyzing **millions of Moral Machine rows** to link cultural metrics (Rule of Law, Individualism) with ethical choices. 
+> Implements **memory-efficient CSV streaming**, **OLS regression**, and **Pearson/Spearman correlation** 
 
 <br>
 
