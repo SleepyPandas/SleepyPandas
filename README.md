@@ -67,7 +67,7 @@ tooling to debug and visualize hardware data.
 > Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
 
 <details>
-  <summary><b> Watch Demo:: Live Dashboard & Hardware</b></summary>
+  <summary><b> Watch Demo: Live Dashboard & Hardware</b></summary>
   <br>
   <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
 </details>
@@ -77,8 +77,14 @@ tooling to debug and visualize hardware data.
 
 
 > A discord bot that renders LaTeX/TikZ diagrams into images in real-time.
-> built with **asyncio** and **ThreadPoolExecutor** to offload CPU-intensive compilation tasks, ensuring the main event loop remains non-blocking. Features **Dockerized deployment** and integrates **Google's Gemma API** for natural language Q&A.
+> Built with **asyncio** and **ThreadPoolExecutor** to offload CPU-intensive compilation tasks, ensuring the main event loop remains non-blocking. Features **Dockerized deployment** and integrates **Google's Gemma API** for natural language Q&A.
+> Created an analytics dashboard to monitor LaTeX compile performance (requests/success/error rate), visualize trends, and inspect recent compile events for debugging. With OPS networking via Tailscale.
 
+<details>
+  <summary><b> See Dashboard with sample data below!</b></summary>
+  <br>
+   <img width="1000" height="1269" alt="Discord Bot Dashboard" src="https://github.com/user-attachments/assets/ae52a177-85d4-440f-95be-efec103b2bf9" />
+</details>
 
 ### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![pypi-publish](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml/badge.svg)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions/workflows/publish.yml) [![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=blue&style=flat-square)](https://pypi.org/project/seamless-pdf/) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
