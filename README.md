@@ -105,7 +105,7 @@ tooling to debug and visualize hardware data.
 > Implements **memory-efficient CSV streaming**, **OLS regression**, and **Pearson/Spearman correlation** 
 
 ### [🎨 Figma Discord Rich Presence](https://github.com/SleepyPandas/Figma-Discord-Rich-Presence)
-![GitHub Release](https://img.shields.io/github/v/release/SleepyPandas/Figma-Discord-Rich-Presence?style=flat-square&logo=github&logoColor=white&label=Release) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264653?style=flat-square&logo=windows&logoColor=white)
+![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat-square&logo=github&label=Release) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264653?style=flat-square&logo=windows&logoColor=white)
 
 > A **cross-platform background utility** that syncs your active Figma file or project status to Discord Rich Presence.
 > Built in **Go** for native performance and supports both **Windows and macOS**.
