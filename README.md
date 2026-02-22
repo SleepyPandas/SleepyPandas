@@ -62,7 +62,7 @@ tooling to debug and visualize hardware data.
 
 ### [🐻 MPU6500 Bare Metal Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+![CMake](https://img.shields.io/badge/CMake-de0434?style=flat&logo=cmake&logoColor=white)
 > A **platform-agnostic, register-level driver** for the MPU6500 IMU on **STM32H5 (Cortex-M33)**. 
 > Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
 
@@ -73,11 +73,13 @@ tooling to debug and visualize hardware data.
 </details>
 
 ### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-EF3340?style=flat&logo=files&logoColor=white) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=fff)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-EF3340?style=flat&logo=files&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
 
 
 > A discord bot that renders LaTeX/TikZ diagrams into images in real-time.
-> Built with **asyncio** and **ThreadPoolExecutor** to offload CPU-intensive compilation tasks, ensuring the main event loop remains non-blocking. Features **Dockerized deployment** and integrates **Google's Gemma API** for natural language Q&A.
+> Built with **asyncio** and **ThreadPoolExecutor** to offload CPU-intensive compilation tasks, ensuring the main event loop remains non-blocking.
+>
+> Features **Dockerized deployment** and integrates **Google's Gemma API** for natural language Q&A.
 > Created an analytics dashboard to monitor LaTeX compile performance (requests/success/error rate), visualize trends, and inspect recent compile events for debugging. With OPS networking via Tailscale.
 
 <details>
@@ -87,12 +89,13 @@ tooling to debug and visualize hardware data.
 </details>
 
 ### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
-[![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=7700b8&style=flat)](https://pypi.org/project/seamless-pdf/) [![Downloads](https://static.pepy.tech/badge/seamless-pdf)](https://pepy.tech/project/seamless-pdf) ![Python Versions](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-007ec6?style=flat) [![CI](https://img.shields.io/github/actions/workflow/status/SleepyPandas/Document-to-ContinuousPDF/test.yml?style=flat&label=tests)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions) [![Powered by Playwright](https://img.shields.io/badge/powered%20by-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/) [![License](https://img.shields.io/github/license/SleepyPandas/Document-to-ContinuousPDF?style=flat)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/blob/main/LICENSE)
+[![PyPi](https://img.shields.io/pypi/v/seamless-pdf?label=PyPi%20Release&color=7700b8&style=flat)](https://pypi.org/project/seamless-pdf/) [![Downloads](https://static.pepy.tech/badge/seamless-pdf)](https://pepy.tech/project/seamless-pdf) ![Python Versions](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-007ec6?style=flat) [![CI](https://img.shields.io/github/actions/workflow/status/SleepyPandas/Document-to-ContinuousPDF/test.yml?style=flat&label=tests)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions) [![License](https://img.shields.io/github/license/SleepyPandas/Document-to-ContinuousPDF?style=flat)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/blob/main/LICENSE)
 
-> A Python utility and CLI for converting HTML/Markdown/Docx into continuous, scrollable PDFs without page breaks while maintaing Table of Contents and CSS Styling for github MD includes margin / width adjustments. 
-> Uses **headless Chromium instance via Playwright** to render DOM elements extracting dimensions. Designed with a modular architecture separating CLI argument parsing from the core conversion logic for easy library integration.
+> A Python utility and CLI for converting HTML/Markdown/Docx into continuous, scrollable PDFs without page breaks while maintaing Table of Contents and CSS Styling for github MD includes margin / width adjustments.
+> 
+> Uses **Chromium instance via Playwright** to render DOM elements extracting dimensions. 
 
-[Pypi Package Website](https://pypi.org/project/seamless-pdf/)
+&#x25B6;&#xFE0E; [Pypi Package Website](https://pypi.org/project/seamless-pdf/)
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat&logo=chip&logoColor=white)
@@ -107,13 +110,15 @@ tooling to debug and visualize hardware data.
 > Implements **memory-efficient CSV streaming**, **OLS regression**, and **Pearson/Spearman correlation** 
 
 ### [🎨 Figma Discord Rich Presence](https://github.com/SleepyPandas/Figma-Discord-Rich-Presence)
-![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264653?style=flat&logo=windows&logoColor=white)
+![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release&color=7700b8) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264653?style=flat&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
-> A **cross-platform background utility** that syncs your active Figma file or project status to Discord Rich Presence.
-> Built in **Go** for native performance and supports both **Windows and macOS**.
-> Features **smart window detection** (using Win32 API and AppleScript) packaged in pkg and .exe files.
 
-[Download Here](https://sleepypandas.github.io/Figma-Discord-Rich-Presence/)
+> A **cross‑platform Go utility** that syncs active Figma Desktop file/project context to Discord Rich Presence
+> with **smart window detection**, **auto‑reconnect**, and a **privacy/config UI** (v2).
+> Packaged for **Windows (.exe) and macOS (.pkg)** with minimal setup.
+
+&#x25B6;&#xFE0E; [Website + Download Here!](https://sleepypandas.github.io/Figma-Discord-Rich-Presence/)
 
 <br>
 
