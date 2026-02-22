@@ -72,21 +72,24 @@ tooling to debug and visualize hardware data.
   <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
 </details>
 
-### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot)
+### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-EF3340?style=flat&logo=files&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
 
 
-> A discord bot that renders LaTeX/TikZ diagrams into images in real-time.
+> A [discord bot](https://discord.com/discovery/applications/1242573317693640788/) that renders LaTeX/TikZ diagrams into images in real-time.
 > Built with **asyncio** and **ThreadPoolExecutor** to offload CPU-intensive compilation tasks, ensuring the main event loop remains non-blocking.
->
+>    
 > Features **Dockerized deployment** and integrates **Google's Gemma API** for natural language Q&A.
 > Created an analytics dashboard to monitor LaTeX compile performance (requests/success/error rate), visualize trends, and inspect recent compile events for debugging. With OPS networking via Tailscale.
 
 <details>
   <summary><b> See Dashboard with sample data below!</b></summary>
+  
   <br>
    <img width="1000" height="1269" alt="Discord Bot Dashboard" src="https://github.com/user-attachments/assets/ae52a177-85d4-440f-95be-efec103b2bf9" />
 </details>
+
+
 
 ### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![PyPi](https://img.shields.io/pypi/v/seamless-pdf?label=PyPi%20Release&color=7700b8&style=flat)](https://pypi.org/project/seamless-pdf/) [![Downloads](https://static.pepy.tech/badge/seamless-pdf)](https://pepy.tech/project/seamless-pdf) ![Python Versions](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-007ec6?style=flat) [![CI](https://img.shields.io/github/actions/workflow/status/SleepyPandas/Document-to-ContinuousPDF/test.yml?style=flat&label=tests)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions) [![License](https://img.shields.io/github/license/SleepyPandas/Document-to-ContinuousPDF?style=flat)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/blob/main/LICENSE)
@@ -96,6 +99,20 @@ tooling to debug and visualize hardware data.
 > Uses **Chromium instance via Playwright** to render DOM elements extracting dimensions. 
 
 &#x25B6;&#xFE0E; [Pypi Package Website](https://pypi.org/project/seamless-pdf/)
+
+
+
+### [🎨 Figma Discord Rich Presence](https://github.com/SleepyPandas/Figma-Discord-Rich-Presence)
+![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release&color=7700b8) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264653?style=flat&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+
+
+> A **cross‑platform Go utility** that syncs active Figma Desktop file/project context to Discord Rich Presence
+> with **smart window detection**, **auto‑reconnect**, and a **privacy/config UI** (v2).
+> Packaged for **Windows (.exe) and macOS (.pkg)** with minimal setup.
+
+&#x25B6;&#xFE0E; [Website + Download Here!](https://sleepypandas.github.io/Figma-Discord-Rich-Presence/)
+
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat&logo=chip&logoColor=white)
@@ -109,16 +126,6 @@ tooling to debug and visualize hardware data.
 > A reproducible data pipeline analyzing **millions of Moral Machine rows** to link cultural metrics (Rule of Law, Individualism) with ethical choices. 
 > Implements **memory-efficient CSV streaming**, **OLS regression**, and **Pearson/Spearman correlation** 
 
-### [🎨 Figma Discord Rich Presence](https://github.com/SleepyPandas/Figma-Discord-Rich-Presence)
-![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release&color=7700b8) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264653?style=flat&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-
-
-> A **cross‑platform Go utility** that syncs active Figma Desktop file/project context to Discord Rich Presence
-> with **smart window detection**, **auto‑reconnect**, and a **privacy/config UI** (v2).
-> Packaged for **Windows (.exe) and macOS (.pkg)** with minimal setup.
-
-&#x25B6;&#xFE0E; [Website + Download Here!](https://sleepypandas.github.io/Figma-Discord-Rich-Presence/)
 
 <br>
 
