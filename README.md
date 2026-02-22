@@ -89,8 +89,10 @@ tooling to debug and visualize hardware data.
 ### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![PyPI version](https://img.shields.io/pypi/v/seamless-pdf?color=7700b8&style=flat)](https://pypi.org/project/seamless-pdf/) [![Downloads](https://static.pepy.tech/badge/seamless-pdf)](https://pepy.tech/project/seamless-pdf) ![Python Versions](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-007ec6?style=flat) [![CI](https://img.shields.io/github/actions/workflow/status/SleepyPandas/Document-to-ContinuousPDF/test.yml?style=flat&label=tests)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions) [![Powered by Playwright](https://img.shields.io/badge/powered%20by-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/) [![License](https://img.shields.io/github/license/SleepyPandas/Document-to-ContinuousPDF?style=flat)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/blob/main/LICENSE)
 
-> A Python utility and CLI for converting HTML/Markdown into continuous, scrollable PDFs without page breaks. 
+> A Python utility and CLI for converting HTML/Markdown/Docx into continuous, scrollable PDFs without page breaks while maintaing Table of Contents and CSS Styling for github MD includes margin / width adjustments. 
 > Uses **headless Chromium instance via Playwright** to render DOM elements extracting dimensions. Designed with a modular architecture separating CLI argument parsing from the core conversion logic for easy library integration.
+
+[Pypi Package Website](https://pypi.org/project/seamless-pdf/)
 
 ### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat&logo=chip&logoColor=white)
