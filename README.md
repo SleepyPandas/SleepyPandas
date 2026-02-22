@@ -103,7 +103,7 @@ tooling to debug and visualize hardware data.
 
 
 ### [🎨 Figma Discord Rich Presence](https://github.com/SleepyPandas/Figma-Discord-Rich-Presence)
-![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release&color=7700b8) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264653?style=flat&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release&color=7700b8) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno_Setup-264653?style=flat) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4wN3Y5LjU0SDBWMy40NXptMTAuNjA5LTEuNUgyNHYxMC4zMzRIMTAuNjA5VjEuOTV6bS0xMC42MDkgMTEuOGg5Ljc1djkuNjY3bC05Ljc1LTEuMzc2di04LjI5em0xMC42MDkgMEgyNHYxMC4zMzRIMTAuNjA5di0xMC4zM3oiLz48L3N2Zz4%3D)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 
