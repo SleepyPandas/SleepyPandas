@@ -78,7 +78,7 @@ tooling to debug and visualize hardware data.
 </details>
 
 #### [ICM-42670-P Breakout Board PCB](https://github.com/SleepyPandas/ICM-42670-P-Breakout-Board-PCB)
-![KiCad](https://img.shields.io/badge/KiCad_9.0-314CB0?style=flat&logo=kicad&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-006400?style=flat) ![I2C](https://img.shields.io/badge/I%C2%B2C-555555?style=flat) ![SPI](https://img.shields.io/badge/SPI-555555?style=flat)
+![KiCad](https://img.shields.io/badge/KiCad_9.0-314CB0?style=flat&logo=kicad&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-006400?style=flat) ![I2C](https://img.shields.io/badge/I%C2%B2C-7C3AED?style=flat) ![SPI](https://img.shields.io/badge/SPI-0D9488?style=flat)
 
 > A compact, breadboard-friendly **breakout board** for the TDK InvenSense **ICM-42670-P 6-axis IMU**, designed from scratch in KiCad 9.0.
 > Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), and configurable **I2C/SPI interface selection** via pull resistors. Includes production-ready Gerbers and panelized layouts for batch fabrication.
