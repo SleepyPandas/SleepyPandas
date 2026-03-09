@@ -124,7 +124,11 @@ tooling to debug and visualize hardware data.
   <summary><b> See Dashboard with sample data below!</b></summary>
   
   <br>
-   <img width="1000" height="1269" alt="Discord Bot Dashboard" src="https://github.com/user-attachments/assets/ae52a177-85d4-440f-95be-efec103b2bf9" />
+
+  > Error Relates to _User Error_
+
+
+   <img width="1000" height="1269" alt="Discord Bot Dashboard" src="https://github.com/user-attachments/assets/4d9865bf-9239-41c1-86fa-220ad7b5ea7c" />
 </details>
 
 
