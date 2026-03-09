@@ -83,6 +83,23 @@ tooling to debug and visualize hardware data.
 > A compact, breadboard-friendly **breakout board** for the TDK InvenSense **ICM-42670-P 6-axis IMU**, designed from scratch in KiCad 9.0.
 > Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), and configurable **I2C/SPI interface selection** via pull resistors. Includes production-ready Gerbers and panelized layouts for batch fabrication.
 
+<table>
+  <tr>
+    <td align="center" width="60%"><strong>3D Render</strong></td>
+    <td align="center" width="40%"><strong>PCB Layout</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c2cd51ff-392e-49f3-959b-0bfe0f817682" alt="3D Render" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8c48232a-c1b9-4a7c-9a8a-062dbc10d8d4" alt="PCB Layout" width="100%"/></td>
+  </tr>
+</table>
+
+<details>
+  <summary><b> View Schematic & Wiring</b></summary>
+  <br>
+  <img src="https://github.com/user-attachments/assets/ed923745-42ba-4d4a-8860-3aadc7fda16a" alt="Schematic" width="100%"/>
+</details>
+
 #### [DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat&logo=chip&logoColor=white)
 
