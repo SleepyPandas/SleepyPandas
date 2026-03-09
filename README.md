@@ -60,11 +60,16 @@ tooling to debug and visualize hardware data.
 
 ## Featured Projects
 
-### [🐻 MPU6500 Bare Metal Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
+> [!NOTE]
+> ## Embedded / Firmware
+
+#### [MPU6500 Bare Metal Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-de0434?style=flat&logo=cmake&logoColor=white)
 > A **platform-agnostic, register-level driver** for the MPU6500 IMU on **STM32H5 (Cortex-M33)**. 
 > Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
+
+[See Documentation](https://sleepypandas.github.io/MPU6500-Bare-Metal-Driver/)
 
 <details>
   <summary><b> Watch Demo: Live Dashboard & Hardware</b></summary>
@@ -72,9 +77,23 @@ tooling to debug and visualize hardware data.
   <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
 </details>
 
-[See Documentation](https://sleepypandas.github.io/MPU6500-Bare-Metal-Driver/)
+#### [ICM-42670-P Breakout Board PCB](https://github.com/SleepyPandas/ICM-42670-P-Breakout-Board-PCB)
+![KiCad](https://img.shields.io/badge/KiCad_9.0-314CB0?style=flat&logo=kicad&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-006400?style=flat) ![I2C](https://img.shields.io/badge/I%C2%B2C-555555?style=flat) ![SPI](https://img.shields.io/badge/SPI-555555?style=flat)
 
-### [🤖 Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot) 
+> A compact, breadboard-friendly **breakout board** for the TDK InvenSense **ICM-42670-P 6-axis IMU**, designed from scratch in KiCad 9.0.
+> Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), and configurable **I2C/SPI interface selection** via pull resistors. Includes production-ready Gerbers and panelized layouts for batch fabrication.
+
+#### [DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat&logo=chip&logoColor=white)
+
+> A **bare-metal C driver** implementing the custom DHT11 single-wire protocol from scratch on **STM32H5**.
+> Manually controls GPIO timing with **microsecond precision** (using hardware TIM1) to handle the sensor's strict handshaking and data transmission states. Includes native **checksum verification** to reject corrupted data frames.
+
+---
+> [!NOTE]
+> ## General Projects
+
+#### [Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-EF3340?style=flat&logo=files&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
 
 
@@ -93,7 +112,7 @@ tooling to debug and visualize hardware data.
 
 
 
-### [📄 Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
+#### [Seamless PDF Python Package](https://github.com/SleepyPandas/Document-to-ContinuousPDF)
 [![PyPi](https://img.shields.io/pypi/v/seamless-pdf?label=PyPi%20Release&color=7700b8&style=flat)](https://pypi.org/project/seamless-pdf/) ![Pepy Total Downloads](https://img.shields.io/pepy/dt/seamless-pdf?color=f08811) ![Python Versions](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-007ec6?style=flat) [![CI](https://img.shields.io/github/actions/workflow/status/SleepyPandas/Document-to-ContinuousPDF/test.yml?style=flat&label=tests)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/actions) [![License](https://img.shields.io/github/license/SleepyPandas/Document-to-ContinuousPDF?style=flat)](https://github.com/SleepyPandas/Document-to-ContinuousPDF/blob/main/LICENSE)
 
 > A Python utility and CLI for converting HTML/Markdown/Docx into continuous, scrollable PDFs without page breaks while maintaing Table of Contents and CSS Styling for github MD includes margin / width adjustments.
@@ -104,25 +123,19 @@ tooling to debug and visualize hardware data.
 
 
 
-### [🎨 Figma Discord Rich Presence](https://github.com/SleepyPandas/Figma-Discord-Rich-Presence)
-![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release&color=7700b8) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno_Setup-264653?style=flat) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4wN3Y5LjU0SDBWMy40NXptMTAuNjA5LTEuNUgyNHYxMC4zMzRIMTAuNjA5VjEuOTV6bS0xMC42MDkgMTEuOGg5Ljc1djkuNjY3bC05Ljc1LTEuMzc2di04LjI5em0xMC42MDkgMEgyNHYxMC4zMzRIMTAuNjA5di0xMC4zM3oiLz48L3N2Zz4%3D)
+#### [Figma Discord Rich Presence](https://github.com/SleepyPandas/Figma-Discord-Rich-Presence)
+![GitHub Tag](https://img.shields.io/github/v/tag/SleepyPandas/Figma-Discord-Rich-Presence?style=flat&logo=github&label=Release&color=7700b8) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno_Setup-264653?style=flat) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4wN3Y5LjU0SDBWMy40NXptMTAuNjA5LTEuNUgyNHYxMC4zMzRIMTAuNjA5VjEuOTV6bS0xMC42MDkgMTEuOGg5Ljc1djkuNjY3bC05Ljc1LTEuMzc2di04LjI5em0xMC42MDkgMEgyNHYxMC4zMzRIMTAuNjA5di0xMC4zM3oiLz48L3N2Zz4=)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 
-> A **cross‑platform Go utility** that syncs active Figma Desktop file/project context to Discord Rich Presence
-> with **smart window detection**, **auto‑reconnect**, and a **privacy/config UI** (v2).
+> A **cross-platform Go utility** that syncs active Figma Desktop file/project context to Discord Rich Presence
+> with **smart window detection**, **auto-reconnect**, and a **privacy/config UI** (v2).
 > Packaged for **Windows (.exe) and macOS (.pkg)** with minimal setup.
 
 &#x25B6;&#xFE0E; [Website + Download Here!](https://sleepypandas.github.io/Figma-Discord-Rich-Presence/)
 
 
-### [🤖 DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat&logo=chip&logoColor=white)
-
-> A **bare-metal C driver** implementing the custom DHT11 single-wire protocol from scratch on **STM32H5**.
-> Manually controls GPIO timing with **microsecond precision** (using hardware TIM1) to handle the sensor's strict handshaking and data transmission states. Includes native **checksum verification** to reject corrupted data frames.
-
-### [♿ Moral Machine Dataset Analysis](https://github.com/SleepyPandas/COG260-Project-Moral-Machine-Analysis)
+#### [Moral Machine Dataset Analysis](https://github.com/SleepyPandas/COG260-Project-Moral-Machine-Analysis)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
 > A reproducible data pipeline analyzing **millions of Moral Machine rows** to link cultural metrics (Rule of Law, Individualism) with ethical choices. 
@@ -139,7 +152,7 @@ tooling to debug and visualize hardware data.
       </a>
     </td>
     <td align="center" width="50%">
-        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&exclude_repo=Finance-Project,Cog260-Labs,Newsletters-HTML,github-stats-private-2&"v=1" alt="Top Langs" />
+        <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&exclude_repo=Finance-Project,Cog260-Labs,Newsletters-HTML&"v=1" alt="Top Langs" />
       </a>
       <br><br>
       <img width="300" alt="Discord bot contribution" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
