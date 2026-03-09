@@ -89,7 +89,7 @@ tooling to debug and visualize hardware data.
     <td align="center" width="40%"><strong>PCB Layout</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c2cd51ff-392e-49f3-959b-0bfe0f817682" alt="3D Render" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/71b36be0-3ba2-496e-98c8-d6f19982a0ef" alt="3D Render" width="100%"/></td>
     <td><img src="https://github.com/user-attachments/assets/8c48232a-c1b9-4a7c-9a8a-062dbc10d8d4" alt="PCB Layout" width="100%"/></td>
   </tr>
 </table>
