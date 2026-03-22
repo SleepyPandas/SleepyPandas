@@ -111,7 +111,7 @@ tooling to debug and visualize hardware data.
 > ## General Projects
 
 #### [Discord LaTeX Bot](https://github.com/SleepyPandas/Discord-LaTeX-Bot) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-EF3340?style=flat&logo=files&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white) ![Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2FSleepyPandas%2Fe856a8608f3286b9bb6f22dfc25c6f16%2Fraw%2FLatexBotStats.json&query=%24.users&label=Discord%20Users&color=f08811&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-EF3340?style=flat&logo=files&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white) ![Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2FSleepyPandas%2Fe856a8608f3286b9bb6f22dfc25c6f16%2Fraw%2FLatexBotStats.json&query=%24.users&label=Discord%20Users&color=f08811&style=flat) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 
 > A [discord bot](https://discord.com/discovery/applications/1242573317693640788/) that renders LaTeX/TikZ diagrams into images in real-time.
