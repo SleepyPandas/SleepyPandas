@@ -78,26 +78,31 @@ tooling to debug and visualize hardware data.
 </details>
 
 #### [ICM-42670-P Breakout Board PCB](https://github.com/SleepyPandas/ICM-42670-P-Breakout-Board-PCB)
-![KiCad](https://img.shields.io/badge/KiCad_9.0-314CB0?style=flat&logo=kicad&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-006400?style=flat) ![I2C](https://img.shields.io/badge/I2C-lightblue?style=flat) ![SPI](https://img.shields.io/badge/SPI-0D9488?style=flat) ![I3C](https://img.shields.io/badge/I3C-blue?style=flat)
+<a href="https://invensense.tdk.com/wp-content/uploads/2021/07/DS-000451-ICM-42670-P-v1.0.pdf"><img src="https://img.shields.io/badge/Datasheet-ICM--42670--P-0078D4?style=flat-round&logo=bookstack&logoColor=white" alt="Datasheet"/></a>
+  <img src="https://img.shields.io/badge/EDA-KiCad%209.0-314CB0?style=flat-round&logo=kicad&logoColor=white" alt="KiCad"/>
+  <img src="https://img.shields.io/badge/Layers-2%20Layer%20PCB-orange?style=flat-round" alt="Layers"/>
+  <img src="https://img.shields.io/badge/Interface-I2C%20%7C%20SPI%20%7C%20I3C-6A0DAD?style=flat-round" alt="Interface"/>
+  <img src="https://img.shields.io/badge/IMU-6--Axis%20%7C%20Accel%20%2B%20Gyro-00897B?style=flat-round" alt="IMU"/>
+  <img src="https://img.shields.io/badge/Rev-v1.2-lightgrey?style=flat-round" alt="Rev"/>
 
 > A compact, breadboard-friendly **breakout board** for the TDK InvenSense **ICM-42670-P 6-axis IMU**, designed from scratch in KiCad 9.0.
 > Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), and configurable **I2C/SPI/I3C interface selection** via pull resistors. Includes production-ready Gerbers and panelized layouts for batch fabrication.
 
 <table>
-  <tr>
-    <td align="center" width="60%"><strong>3D Render</strong></td>
-    <td align="center" width="40%"><strong>PCB Layout</strong></td>
+   <tr>
+    <td align="center" width="70%"><strong>3D Render</strong></td>
+    <td align="center" width="30%"><strong>PCB Layout</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/71b36be0-3ba2-496e-98c8-d6f19982a0ef" alt="3D Render" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/8c48232a-c1b9-4a7c-9a8a-062dbc10d8d4" alt="PCB Layout" width="100%"/></td>
+    <td valign="middle"><img src="https://github.com/user-attachments/assets/f7fc2b81-b836-471d-9576-5a9c19fd43dd" alt="3D Render" width="100%"/></td>
+    <td valign="middle"><img src="https://github.com/user-attachments/assets/2a0c2575-5125-44e0-b663-1f8e5a558fe3" alt="PCB Layout" width="100%"/></td>
   </tr>
 </table>
 
 <details>
   <summary><b> View Schematic & Wiring</b></summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/ed923745-42ba-4d4a-8860-3aadc7fda16a" alt="Schematic" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/b72cf158-86df-48ce-8643-bb2742c0bcad" alt="Schematic" width="100%"/>
 </details>
 
 #### [DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
