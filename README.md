@@ -95,7 +95,7 @@ tooling to debug and visualize hardware data.
   </tr>
   <tr>
     <td valign="middle"><img src="https://github.com/user-attachments/assets/f7fc2b81-b836-471d-9576-5a9c19fd43dd" alt="3D Render" width="100%"/></td>
-    <td valign="middle"><img src="https://github.com/user-attachments/assets/2a0c2575-5125-44e0-b663-1f8e5a558fe3" alt="PCB Layout" width="100%"/></td>
+    <td valign="middle"><img src="https://github.com/user-attachments/assets/43f4bd61-bd20-4e9f-a695-7184fc38b408" alt="PCB Layout" width="100%"/></td>
   </tr>
 </table>
 
