@@ -158,6 +158,10 @@ tooling to debug and visualize hardware data.
 &#x25B6;&#xFE0E; [Website + Download Here!](https://sleepypandas.github.io/Figma-Discord-Rich-Presence/)
 
 
+#### [KiCAD Plugin For Discord Rich Presence](https://github.com/SleepyPandas/Discord-RPC-for-KiCAD)
+> Cool small plugin on KICAD to show others what you're working on :)! 
+
+
 #### [Moral Machine Dataset Analysis](https://github.com/SleepyPandas/COG260-Project-Moral-Machine-Analysis)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
