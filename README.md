@@ -78,7 +78,7 @@ tooling to debug and visualize hardware data.
 </details>
 
 #### [ICM-42670-P Breakout Board PCB](https://github.com/SleepyPandas/ICM-42670-P-Breakout-Board-PCB)
-<a href="https://invensense.tdk.com/wp-content/uploads/2021/07/DS-000451-ICM-42670-P-v1.0.pdf"><img src="https://img.shields.io/badge/Datasheet-ICM--42670--P-0078D4?style=flat-round&logo=bookstack&logoColor=white" alt="Datasheet"/></a>
+<a href="https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000451-icm-42670-p.pdf"><img src="https://img.shields.io/badge/Datasheet-ICM--42670--P-0078D4?style=flat-round&logo=bookstack&logoColor=white" alt="Datasheet"/></a>
   <img src="https://img.shields.io/badge/EDA-KiCad%209.0-314CB0?style=flat-round&logo=kicad&logoColor=white" alt="KiCad"/>
   <img src="https://img.shields.io/badge/Layers-2%20Layer%20PCB-orange?style=flat-round" alt="Layers"/>
   <img src="https://img.shields.io/badge/Interface-I2C%20%7C%20SPI%20%7C%20I3C-6A0DAD?style=flat-round" alt="Interface"/>
