@@ -189,18 +189,18 @@ See Doxygen Documentation [Here!](https://sleepypandas.github.io/ST7789V3-IC-Dri
 
 <br>
 
+
+
 ## GitHub Stats
 <table align="center">
   <tr>
     <td align="center" width="50%">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u559ks56bbgkxkgpkxmttmt9g&cover_image=true&theme=default&show_offline=false&background_color=0e1117&interchange=false&profanity=false&bar_color=00fbff&bar_color_cover=false" alt="Spotify Status" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u559ks56bbgkxkgpkxmttmt9g&cover_image=true&theme=default&show_offline=false&background_color=0e1117&interchange=false&profanity=false&bar_color=00fbff&bar_color_cover=false" alt="Spotify Status \n\n\n\n\n " />
       </a>
     </td>
-      <td align="center" width="60%">
+      <td align="center" width="100%">
   <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=SleepyPandas&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML,CSS&exclude_repo=Finance-Project,Cog260-Labs,Newsletters-HTML&v=1" alt="Top Langs" />
       </a>
-      <br><br>
-      <img width="300" alt="Discord bot contribution" src="https://github.com/user-attachments/assets/7ac96b67-8eb7-409b-b17b-d7c3a5c9a9b5" />
     </td>
   </tr>
 </table>
