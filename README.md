@@ -92,7 +92,7 @@ tooling to debug and visualize hardware data.
 </details>
 
 #### [ST7789V3 Display IC Driver](https://github.com/SleepyPandas/ST7789V3-IC-Driver-LCD)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)  ![Architecture](https://img.shields.io/badge/Architecture-Bare_Metal-blue) ![Display-IC](https://img.shields.io/badge/Display_Driver_IC-ST7789V3-a442f5) ![I/O](https://img.shields.io/badge/I%2FO-SPI_DMA-f7b80a) ![Build](https://img.shields.io/badge/Build-CMake-e81526)
+<a href="https://files.waveshare.com/upload/c/c1/ST7789V3_V0.1.pdf"><img src="https://img.shields.io/badge/Datasheet-ST7789V3-0078D4?style=flat-round&logo=bookstack&logoColor=white" alt="Datasheet"/></a> ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)    ![I/O](https://img.shields.io/badge/I%2FO-SPI_DMA-f7b80a) ![Build](https://img.shields.io/badge/Build-CMake-e81526) ![Architecture](https://img.shields.io/badge/Architecture-Bare_Metal-black)
 
 > A from-scratch, register-level display driver for the ST7789V3 1.47″ LCD (172×320), running on an STM32H503RB (Arm Cortex-M33) with no external graphics libraries. Features a platform-agnostic architecture, non-blocking DMA transfers, a
 > full 2D graphics engine (lines, circles, rectangles, text), RGB888->RGB565 color conversion, and 10 built-in bitmap fonts.
@@ -124,7 +124,7 @@ See Doxygen Documentation [Here!](https://sleepypandas.github.io/ST7789V3-IC-Dri
 
 
 #### [DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-Bare_Metal-blue)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-Bare_Metal-black)
 
 > A **bare-metal C driver** implementing the custom DHT11 single-wire protocol from scratch on **STM32H5**.
 > Manually controls GPIO timing with **microsecond precision** (using hardware TIM1) to handle the sensor's strict handshaking and data transmission states. Includes native **checksum verification** to reject corrupted data frames.
