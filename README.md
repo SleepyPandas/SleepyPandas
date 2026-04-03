@@ -72,7 +72,7 @@ tooling to debug and visualize hardware data.
   <img src="https://img.shields.io/badge/Rev-v1.2-lightgrey?style=flat-round" alt="Rev"/>
 
 > A compact, breadboard-friendly **breakout board** for the TDK InvenSense **ICM-42670-P 6-axis IMU**, designed from scratch in KiCad 10.0.
-> Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), and configurable **I2C/SPI/I3C interface selection** via pull resistors. Includes production-ready Gerbers and panelized layouts for batch fabrication.
+> Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), Ground Plane, and configurable **I2C/SPI/I3C interface selection** via pull resistors. Includes production-ready Gerbers and panelized layouts for batch fabrication.
 
 <table>
    <tr>
