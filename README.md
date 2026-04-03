@@ -63,20 +63,6 @@ tooling to debug and visualize hardware data.
 > [!NOTE]
 > ## Embedded / Firmware
 
-#### [MPU6500 Bare Metal Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-de0434?style=flat&logo=cmake&logoColor=white)
-> A **platform-agnostic, register-level driver** for the MPU6500 IMU on **STM32H5 (Cortex-M33)**. 
-> Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
-
-[See Documentation](https://sleepypandas.github.io/MPU6500-Bare-Metal-Driver/)
-
-<details>
-  <summary><b> Watch Demo: Live Dashboard & Hardware</b></summary>
-  <br>
-  <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
-</details>
-
 #### [ICM-42670-P Breakout Board PCB](https://github.com/SleepyPandas/ICM-42670-P-Breakout-Board-PCB)
 <a href="https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000451-icm-42670-p.pdf"><img src="https://img.shields.io/badge/Datasheet-ICM--42670--P-0078D4?style=flat-round&logo=bookstack&logoColor=white" alt="Datasheet"/></a>
   <img src="https://img.shields.io/badge/EDA-KiCad%2010.0-314CB0?style=flat-round&logo=kicad&logoColor=white" alt="KiCad"/>
@@ -105,8 +91,40 @@ tooling to debug and visualize hardware data.
   <img src="https://github.com/user-attachments/assets/b72cf158-86df-48ce-8643-bb2742c0bcad" alt="Schematic" width="100%"/>
 </details>
 
+#### [ST7789V3 Display IC Driver](https://github.com/SleepyPandas/ST7789V3-IC-Driver-LCD)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)  ![Architecture](https://img.shields.io/badge/Architecture-Bare_Metal-blue) ![Display-IC](https://img.shields.io/badge/Display_Driver_IC-ST7789V3-a442f5) ![I/O](https://img.shields.io/badge/I%2FO-SPI_DMA-f7b80a) ![Build](https://img.shields.io/badge/Build-CMake-e81526)
+
+> A from-scratch, register-level display driver for the ST7789V3 1.47″ LCD (172×320), running on an STM32H503RB (Arm Cortex-M33) with no external graphics libraries. Features a platform-agnostic architecture, non-blocking DMA transfers, a
+> full 2D graphics engine (lines, circles, rectangles, text), RGB888->RGB565 color conversion, and 10 built-in bitmap fonts.
+
+
+See Doxygen Documentation [Here!](https://sleepypandas.github.io/ST7789V3-IC-Driver-LCD/)
+
+<details>
+  <summary><b> Small Demo </b></summary>
+  <br>
+  <video src="https://github.com/user-attachments/assets/07f95d09-789a-4d38-9fc8-debc32ab18c1" controls width="100%"></video>
+</details>
+
+#### [MPU6500 Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-de0434?style=flat&logo=cmake&logoColor=white) ![I/O](https://img.shields.io/badge/I%2FO-I2C-f7b80a)
+> A **platform-agnostic, register-level driver** for the MPU6500 IMU on **STM32H5 (Cortex-M33)**. 
+> Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
+
+[See Documentation](https://sleepypandas.github.io/MPU6500-Bare-Metal-Driver/)
+
+<details>
+  <summary><b> Watch Demo: Live Dashboard & Hardware</b></summary>
+  <br>
+  <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
+</details>
+
+
+
+
 #### [DHT11 Bit-Banging Driver](https://github.com/SleepyPandas/DHT11-Bit_Banging-Driver)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-555555?style=flat&logo=chip&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-Bare_Metal-blue)
 
 > A **bare-metal C driver** implementing the custom DHT11 single-wire protocol from scratch on **STM32H5**.
 > Manually controls GPIO timing with **microsecond precision** (using hardware TIM1) to handle the sensor's strict handshaking and data transmission states. Includes native **checksum verification** to reject corrupted data frames.
