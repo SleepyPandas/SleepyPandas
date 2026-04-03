@@ -1,9 +1,9 @@
 <div align="center">
 
   <h1>Its me, Anthony Hua!</h1>
-  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
-  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
-  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="100" />
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="100" />
+  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="100" />
   <br>
 
   <a href="https://www.linkedin.com/in/anthony-hua-5638382ba/">
