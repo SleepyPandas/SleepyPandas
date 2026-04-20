@@ -89,6 +89,15 @@ tooling to debug and visualize hardware data.
   <summary><b> View Schematic & Wiring</b></summary>
   <br>
   <img src="https://github.com/user-attachments/assets/b72cf158-86df-48ce-8643-bb2742c0bcad" alt="Schematic" width="100%"/>
+
+  <table width="100%">
+    <tr>
+      <td align="center" colspan="2"><strong>Prototyping</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="https://github.com/user-attachments/assets/7719e367-bad9-4af6-870e-9e31022b1e67" alt="Prototyping" width="100%"/></td>
+    </tr>
+  </table>
 </details>
 
 #### [ST7789V3 Display IC Driver](https://github.com/SleepyPandas/ST7789V3-IC-Driver-LCD)
