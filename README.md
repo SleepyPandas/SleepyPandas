@@ -1,18 +1,5 @@
 <div align="center">
-
   <h1>Its me, Anthony Hua!</h1>
-  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="100" />
-  <img src="https://i.pinimg.com/originals/a9/84/cc/a984cc337b3bbfdbeb8040acb2017b46.gif" width="100" />
-  <br>
-
-  <a href="https://www.linkedin.com/in/anthony-hua-5638382ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tommyrobotics1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 <br>
 
 ## About Me
@@ -29,6 +16,16 @@ tooling to debug and visualize hardware data.
   <img src="https://img.shields.io/badge/Works%20on%20my%20machine-approved-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Has%205%20Toes-Yes-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sushi%20Chef-True-red?style=for-the-badge" />
+</div>
+
+<br>
+
+  <a href="https://www.linkedin.com/in/anthony-hua-5638382ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tommyrobotics1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br>
