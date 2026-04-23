@@ -1,8 +1,9 @@
+
+
 <div align="center">
   <h1>Its me, Anthony Hua!</h1>
-<br>
 
-## About Me
+  
 ### Embedded & Firmware | C, Python | Bare-Metal
 I’m a student at the University of Toronto studying Computational Cognitive Science
 and Mathematics, with a strong interest in embedded systems and firmware development.
