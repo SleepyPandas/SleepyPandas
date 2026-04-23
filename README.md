@@ -115,6 +115,24 @@ See Doxygen Documentation [Here!](https://sleepypandas.github.io/ST7789V3-IC-Dri
   <video src="https://github.com/user-attachments/assets/07f95d09-789a-4d38-9fc8-debc32ab18c1" controls width="100%"></video>
 </details>
 
+
+
+#### [RTOS Multi Component Demo](https://github.com/SleepyPandas/RTOS-MultiSensor-Dashboard)
+![OS](https://img.shields.io/badge/OS-FreeRTOS-blue) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Tasks_%26_Queues-blue) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Mutex_%26_Semaphore-orange) ![STM32](https://img.shields.io/badge/STM32-NVIC_%26_ISR-red) ![Build](https://img.shields.io/badge/Build-CMake-e81526)
+
+
+> STM32 FreeRTOS demo firmware that reads an MPU6500 IMU, updates an ST7789V3 LCD, and streams the same sensor data over the board's USB-C virtual COM port while keeping a LED HeartBeat.
+> Uses **I2C, SPI, UART, DMA, Mutexes, Tasks, Queues, Semaphores and an NVIC -> ISR**
+
+<details>
+  <summary><b> Small Demo </b></summary>
+  <br>
+  <video src="https://github.com/user-attachments/assets/8d01808f-3e3d-4925-8c8a-ecf3500c826f" controls width="100%"></video>
+</details>
+
+
+
+
 #### [MPU6500 Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-de0434?style=flat&logo=cmake&logoColor=white) ![I/O](https://img.shields.io/badge/I%2FO-I2C-f7b80a)
