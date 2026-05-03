@@ -69,7 +69,7 @@ tooling to debug and visualize hardware data.
   <img src="https://img.shields.io/badge/Rev-v1.2-lightgrey?style=flat-round" alt="Rev"/>
 
 > A compact, breadboard-friendly **breakout board** for the TDK InvenSense **ICM-42670-P 6-axis IMU**, designed from scratch in KiCad 10.0.
-> Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), Ground Plane, and configurable **I2C/SPI/I3C interface selection** via pull resistors. Includes production-ready Gerbers and panelized layouts for batch fabrication.
+> Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), Ground Plane, and configurable **I2C/SPI/I3C interface selection** via pullup resistors.
 
 <table>
    <tr>
@@ -96,6 +96,12 @@ tooling to debug and visualize hardware data.
     </tr>
   </table>
 </details>
+
+#### [ICM-42670-P Bare-Metal Driver](https://github.com/SleepyPandas/ICM42670_Driver_STM32_ESP32)
+<a href="https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000451-icm-42670-p.pdf"><img src="https://img.shields.io/badge/Datasheet-ICM--42670--P-0078D4?style=flat-round&logo=bookstack&logoColor=white" alt="Datasheet"/></a> ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![I/O](https://img.shields.io/badge/I%2FO-I3C_%7C_I2C_%7C_SPI-f7b80a) ![Buffer](https://img.shields.io/badge/BUFFER-FIFO-8CAAE6?style=flat)
+
+> A **platform-agnostic, register-level driver** for the ICM-42670-P 6-axis IMU, explicitly written to pair with my custom breakout board above.
+> Features a clean hardware abstraction layer (HAL) for rapid porting, enabling seamless operation across both **STM32** and **ESP32** microcontrollers. Demonstrates a full-cycle engineering approach from hardware conception to firmware implementation.
 
 #### [ST7789V3 Display IC Driver](https://github.com/SleepyPandas/ST7789V3-IC-Driver-LCD)
 <a href="https://files.waveshare.com/upload/c/c1/ST7789V3_V0.1.pdf"><img src="https://img.shields.io/badge/Datasheet-ST7789V3-0078D4?style=flat-round&logo=bookstack&logoColor=white" alt="Datasheet"/></a> ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)    ![I/O](https://img.shields.io/badge/I%2FO-SPI_DMA-f7b80a) ![Build](https://img.shields.io/badge/Build-CMake-e81526) ![Architecture](https://img.shields.io/badge/Architecture-Bare_Metal-black)
@@ -125,23 +131,6 @@ See Doxygen Documentation [Here!](https://sleepypandas.github.io/ST7789V3-IC-Dri
   <summary><b> Small Demo </b></summary>
   <br>
   <video src="https://github.com/user-attachments/assets/8d01808f-3e3d-4925-8c8a-ecf3500c826f" controls width="100%"></video>
-</details>
-
-
-
-
-#### [MPU6500 Driver](https://github.com/SleepyPandas/MPU6500-Bare-Metal-Driver)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-de0434?style=flat&logo=cmake&logoColor=white) ![I/O](https://img.shields.io/badge/I%2FO-I2C-f7b80a)
-> A **platform-agnostic, register-level driver** for the MPU6500 IMU on **STM32H5 (Cortex-M33)**. 
-> Features a **non-blocking DMA state machine** to free up CPU cycles, function-pointer HAL abstraction for portability, and automated gyroscope calibration. Includes a real-time Python dashboard that visualizes live sensor data via UART.
-
-[See Documentation](https://sleepypandas.github.io/MPU6500-Bare-Metal-Driver/)
-
-<details>
-  <summary><b> Watch Demo: Live Dashboard & Hardware</b></summary>
-  <br>
-  <video src="https://github.com/user-attachments/assets/083083cf-58ff-4d32-9ef0-c8d85db2905d" controls width="100%"></video>
 </details>
 
 
@@ -202,17 +191,6 @@ See Doxygen Documentation [Here!](https://sleepypandas.github.io/ST7789V3-IC-Dri
 
 #### [KiCAD Plugin For Discord Rich Presence](https://github.com/SleepyPandas/Discord-RPC-for-KiCAD)
 > Cool small plugin on KICAD to show others what you're working on :)! 
-
-
-#### [Moral Machine Dataset Analysis](https://github.com/SleepyPandas/COG260-Project-Moral-Machine-Analysis)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-
-> A reproducible data pipeline analyzing **millions of Moral Machine rows** to link cultural metrics (Rule of Law, Individualism) with ethical choices. 
-> Implements **memory-efficient CSV streaming**, **OLS regression**, and **Pearson/Spearman correlation** 
-
-
-<br>
-
 
 
 ## GitHub Stats
