@@ -66,7 +66,7 @@ tooling to debug and visualize hardware data.
   <img src="https://img.shields.io/badge/Layers-2%20Layer%20PCB-orange?style=flat-round" alt="Layers"/>
   <img src="https://img.shields.io/badge/Interface-I2C%20%7C%20SPI%20%7C%20I3C-6A0DAD?style=flat-round" alt="Interface"/>
   <img src="https://img.shields.io/badge/IMU-6--Axis%20%7C%20Accel%20%2B%20Gyro-00897B?style=flat-round" alt="IMU"/>
-  <img src="https://img.shields.io/badge/Rev-v1.2-lightgrey?style=flat-round" alt="Rev"/>
+  <img src="https://img.shields.io/badge/Rev-v1.4-lightgrey?style=flat-round" alt="Rev"/>
 
 > A compact, breadboard-friendly **breakout board** for the TDK InvenSense **ICM-42670-P 6-axis IMU**, designed from scratch in KiCad 10.0.
 > Features an **MCP1700-3.3V LDO** for clean power regulation, a deliberate **decoupling strategy** (high-frequency bypass + bulk filtering), Ground Plane, and configurable **I2C/SPI/I3C interface selection** via pullup resistors.
@@ -77,8 +77,9 @@ tooling to debug and visualize hardware data.
     <td align="center" width="30%"><strong>PCB Layout</strong></td>
   </tr>
   <tr>
-    <td valign="middle"><img src="https://github.com/user-attachments/assets/f7fc2b81-b836-471d-9576-5a9c19fd43dd" alt="3D Render" width="100%"/></td>
-    <td valign="middle"><img src="https://github.com/user-attachments/assets/43f4bd61-bd20-4e9f-a695-7184fc38b408" alt="PCB Layout" width="100%"/></td>
+    <td valign="middle"><img src="https://github.com/user-attachments/assets/70ebc165-9789-458b-acc1-ed9eb6a9fbef" alt="3D Render" width="100%"/></td>
+    <td valign="middle"><img src="https://github.com/user-attachments/assets/4affdd65-6319-4b5b-a04d-9ff2a4f81e8f" alt="PCB Layout" width="100%"/></td>
+
   </tr>
 </table>
 
