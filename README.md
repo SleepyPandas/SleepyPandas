@@ -85,7 +85,10 @@ tooling to debug and visualize hardware data.
 <details>
   <summary><b> View Schematic & Wiring</b></summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/b72cf158-86df-48ce-8643-bb2742c0bcad" alt="Schematic" width="100%"/>
+
+  <img src="https://github.com/user-attachments/assets/2c3e6d40-2e6e-4aa9-a850-b450ec5c1d03" alt="Schematic" width="100%"/>
+
+
 
   <table width="100%">
     <tr>
