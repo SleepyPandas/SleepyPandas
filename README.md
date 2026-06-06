@@ -162,6 +162,11 @@ See Doxygen Documentation [Here!](https://sleepypandas.github.io/ST7789V3-IC-Dri
 > Features **Dockerized deployment** and integrates **Google's Gemma API** for natural language Q&A.
 > Created an analytics dashboard to monitor LaTeX compile performance (requests/success/error rate), visualize trends, and inspect recent compile events for debugging. With OPS networking via Tailscale.
 
+
+<a href="https://latex_bot.betteruptime.com">
+  <img src="https://img.shields.io/badge/-View%20service%20status%20and%20incident%20history-ffdd03?style=for-the-badge&logoColor=black" alt="Status Page">
+</a>
+
 <details>
   <summary><b> See Dashboard with sample data below!</b></summary>
 
