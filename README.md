@@ -3,6 +3,7 @@
 <div align="center">
   <h1>Its me, Anthony Hua!</h1>
 
+
   
 ### Embedded & Firmware | C, Python | Bare-Metal
 I’m a student at the University of Toronto studying Computational Cognitive Science
@@ -31,7 +32,7 @@ tooling to debug and visualize hardware data.
 
 <br>
 
-
+<img width="2138" height="256" alt="I2C READS" src="https://github.com/user-attachments/assets/e95ac540-16ee-4ef9-b54d-6c3d49282837" />
 
 <br>
 
